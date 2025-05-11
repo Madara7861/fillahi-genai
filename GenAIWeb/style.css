@@ -168,3 +168,14 @@ th {
 .dot.active {
   background-color: #333;
 }
+
+ul.big {
+  line-height: 1.8;
+}
+
+.flex-container
+{
+    display: flex;
+    justify-content: center; /* Center horizontally */
+    align-items: center; /* Center vertically */
+}
